@@ -1,6 +1,6 @@
 [
   {
-    "name": "clusterone",
+    "name": "custom-service",
     "imageUri": "210990909645.dkr.ecr.us-east-2.amazonaws.com/sureshsampledockerhub:latest"
   }
 ]

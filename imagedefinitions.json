@@ -1,6 +1,6 @@
 [
   {
-    "name": "custom-service",
+    "name": "custom",
     "imageUri": "210990909645.dkr.ecr.us-east-2.amazonaws.com/sureshsampledockerhub:latest"
   }
 ]
